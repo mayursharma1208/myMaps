@@ -15,8 +15,7 @@ A collection of some of my maps
 ## WebApplications Using Open Source Technologies
 
 <p align="center">
-  <img src="https://github.com/mayursharma1208/myMaps/blob/main/CG_lego.jpeg?raw=true" width="45%" title="Chhattisgarh Lego Map">
-  <img src="https://github.com/mayursharma1208/myMaps/blob/main/CG_lego_elev.jpeg?raw=true" width="45%" alt="Chhattisgarh Lego Map">
+  <img src="https://github.com/mayursharma1208/myMaps/blob/main/waterbody_query.png?raw=true" width="45%" title="Chhattisgarh Lego Map">
 </p>
 
 ## Lego Map
